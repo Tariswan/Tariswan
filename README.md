@@ -19,3 +19,10 @@ $ cd crack_Fb
 $ ls
 
 $ python crack_FB.py
+
+
+
+
+
+
+File crack nya dwonlod ada di bawah scrol aja tod
