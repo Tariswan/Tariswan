@@ -1,5 +1,5 @@
-BERSYUKUR DAH DI KASIH FREE/GRATIS NGENTOD 
 
+      DIKASIH GRATIS JAN BANYAK PROTES
 
 
 $ pkg update && pkg upgrade
