@@ -12,7 +12,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/andibakar/crack_Fb
+$ git clone https://github.com/Tariswan/crack_Fb
 
 $ cd crack_Fb
 
